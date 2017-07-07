@@ -79,4 +79,6 @@ adaptive  アダプティブ
 
 しこう[試行](=試み·トライアル)시행.
 号泣号泣
-copy AppConfigInfo.xml 
+copy AppConfigInfo.xml
+
+copy "$(ProjectDir)AppConfigInfo.xml" "$(TargetDir)"
