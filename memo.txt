@@ -82,3 +82,8 @@ adaptive  アダプティブ
 copy AppConfigInfo.xml
 
 copy "$(ProjectDir)AppConfigInfo.xml" "$(TargetDir)"
+http://qiita.com/h5y1m141@github/items/4bb17d3439cd957ed2c0
+https://git-scm.com/book/ja/v2
+http://tracpath.com/bootcamp/learning_git_firststep.html
+http://rogerdudler.github.io/git-guide/index.ja.html
+
